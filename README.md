@@ -46,9 +46,6 @@ plt.show
 ![Screenshot 2024-01-02 192602](https://github.com/Yogesh-Yogi-1/Univariate-Linear-Regression/assets/148514598/fb05fafe-b5e8-4223-9d6d-521585a36b2d)
 ![Screenshot 2024-01-02 191919](https://github.com/Yogesh-Yogi-1/Univariate-Linear-Regression/assets/148514598/675dbd2d-6b55-4f24-b061-c94b5f2fad29)
 ![Screenshot 2024-01-02 191948](https://github.com/Yogesh-Yogi-1/Univariate-Linear-Regression/assets/148514598/5116d26e-97fa-4d92-a859-49030502009c)
-
-</br>
-</br>
 </br>
 </br>
 
